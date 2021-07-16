@@ -3,4 +3,4 @@
 
 
 
-NOTE: If the theme isnt working for you import it after enabling advance settings
+Discord Themer: If the theme isnt working for you import it after enabling advance settings
