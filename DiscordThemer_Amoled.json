@@ -1,7 +1,7 @@
 {
   "name": "Aliucord AMOLED Theme",
   "author": "Fred#9876",
-  "version": "1.1",
+  "version": "1.1.1",
   "color_primary_dark_830": -16777216,
   "color_primary_dark_730": -16777216,
   "statusbar_color": -16777216,
@@ -27,5 +27,5 @@
   "input_background_color": -16777216,
   "color_primary_dark_800": -16777216,
   "drawablecolor_abc_textfield_search_material": -16777216,
-  "color_primary_light_100": -16777216,
+  "color_primary_light_100": -16777216
 }
