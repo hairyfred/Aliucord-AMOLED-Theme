@@ -1,7 +1,7 @@
 {
   "name": "Aliucord AMOLED Theme",
   "author": "Fred#9876",
-  "version": "1.1.3",
+  "version": "1.1.5",
   "updater": "https://raw.githubusercontent.com/hairyfred/Aliucord-AMOLED-Theme/main/DiscordThemer_Amoled.json",
   "color_primary_dark_830": -16777216,
   "color_primary_dark_730": -16777216,
@@ -29,5 +29,6 @@
   "color_primary_dark_800": -16777216,
   "drawablecolor_abc_textfield_search_material": -16777216,
   "color_primary_light_100": -16777216,
-  "color_button_material_dark": -15527149
+  "color_button_material_dark": -15527149,
+  "drawablecolor_drawable_overlay_channels_selected_dark": -15527149
 }
