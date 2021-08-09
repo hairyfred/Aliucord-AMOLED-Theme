@@ -21,6 +21,6 @@
 ###### Discord themer is hit or miss and does not work on all roms/phones
 
 ### Bugs
-* Themer Plugin does not theme status bar/Text input box (Themer plugin bug)
+* <s>Themer Plugin does not theme status bar/Text input box (Themer plugin bug)</s> Fixed!
 * Discord Themer: If the theme isnt working for you import it after enabling advance settings
 
