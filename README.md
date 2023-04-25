@@ -1,3 +1,5 @@
+# This Theme was made for the original Alicord and the Discord Xposed Themer, this theme may no longer work on newer versions of Aliucord or AliucordRN and is now abandoned.
+
 # AMOLED Theme for Aliucord
 ![img](https://i.imgur.com/NMKkma5.png)
 
